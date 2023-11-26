@@ -39,6 +39,7 @@ h2,h4,p {
 #bottom-left-section{
   display:inline-block;
   width: 50%;
+  height:100%;
   vertical-align:top;
   background-color:#076b69;
   padding: 20px;
@@ -47,6 +48,7 @@ h2,h4,p {
 #bottom-right-section{
   display:inline-block;
   width: 50%;
+  height:100%;
   vertical-align:top;
   background-color:#7de3e1;
   padding: 10x;
